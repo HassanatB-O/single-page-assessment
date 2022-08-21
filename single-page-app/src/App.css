@@ -14,8 +14,10 @@
   margin: 0 0 1em 0;
 }
 
-span{
-  color: hsl(0, 71%, 31%);
+.header{
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  margin: 1em 0;
 }
 
 h1{

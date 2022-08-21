@@ -28,6 +28,7 @@ export default function CovidDetails(){
     else
     return(
         <div>
+            <h1 className="header">COVID-19 Details</h1>
             <div className="total-details">
                 <h1 className="state">Total Samples Tested: {details.totalSamplesTested}</h1>
                 <h1 className="confirmed">Total Confirmed Cases: {details.totalConfirmedCases}</h1>
