@@ -54,8 +54,8 @@ h2{
   font-size: 1.2rem;
 }
 
-.confirmed{
-  color: hsl(0, 71%, 31%);
+.confirmed{ 
+  color: hsl(59, 64%, 45%);
 }
 
 .admission{
@@ -67,12 +67,12 @@ h2{
 }
 
 .deaths{
-  color: hsl(59, 44%, 19%);
+  color: hsl(0, 71%, 31%);
 }
 
 @media screen and (max-width: 750px){
   .all-states-data{
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
   h1{
     font-size: 1.5rem;
